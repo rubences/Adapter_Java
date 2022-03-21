@@ -1,3 +1,5 @@
+package square;
+
 public class SquarePeg {
     private double width;
 
